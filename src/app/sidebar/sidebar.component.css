@@ -1,0 +1,17 @@
+.menu-item{
+    height:70px;
+    text-align: center;
+  
+}
+
+.sidebar-width{
+    width:70px;
+    background-color: #4c5a72;
+    min-height: 100vh;
+    color:white;
+    padding-top: 50px;
+
+}
+.clr{
+    background-color: gray;
+}

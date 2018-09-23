@@ -1,0 +1,54 @@
+.cardcomp{
+min-height: 200px;
+background-color: white;
+border-left: 5px solid red;
+border: 1px solid whitesmoke;
+margin-bottom: 10px;
+margin-top: 10px;
+font-size: 12px;
+
+}
+
+.rounded-img{
+    height: 60px;
+}
+.img-container{
+    height:50px;
+    width: 50px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: 5px;
+    display: inline-block;
+}
+.card-row{
+    padding-left: 10px;
+    position: relative;
+}
+.user-name{
+    position: absolute;
+    top: 5px;
+    left: 75px;
+}
+.textclass{
+float: right;
+color: aqua;
+padding-right: 5px;
+
+
+}
+
+.lastcard-row2{
+    height: 50px;
+    vertical-align: center;
+    color:gray;
+    padding: 10px;
+    word-spacing: 10px;
+    display: inline-block;
+    
+}
+.date-class{
+    float:right;
+}
+
+

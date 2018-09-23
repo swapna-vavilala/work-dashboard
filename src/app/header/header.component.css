@@ -1,0 +1,14 @@
+.span-styl{
+    padding: 15px;
+    padding-left: 25px;
+    word-spacing: 10px;
+    position: relative;
+    left: 20px;
+}
+.button12{
+    float: left;
+    position: absolute;
+   left:900px;
+    top:10px;
+    bottom:10px;
+}

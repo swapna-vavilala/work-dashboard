@@ -1,0 +1,12 @@
+.side-bar{
+   
+    min-height: 100vh;
+    color:white;
+}
+.content-class{
+    background-color: #F7F8FC;
+}
+.headclass{
+    height: 55px;
+    background-color: white;
+}
