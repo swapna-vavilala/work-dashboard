@@ -1,11 +1,12 @@
 .cardcomp{
 min-height: 200px;
 background-color: white;
-border-left: 5px solid red;
-border: 1px solid whitesmoke;
+/* border: 1px solid whitesmoke; */
 margin-bottom: 10px;
 margin-top: 10px;
 font-size: 12px;
+border-left: 2px solid orange;
+margin-top: 50px;
 
 }
 
@@ -46,9 +47,56 @@ padding-right: 5px;
     word-spacing: 10px;
     display: inline-block;
     
+    
 }
 .date-class{
     float:right;
+}
+
+.clrss{
+    border-left: 2px solid yellow;    
+}
+.statuscls{
+  text-align: left;
+color: gray;
+font-size: 10px;
+    font-weight: bold;
+    margin-left: 6px;
+}
+    .dotslogo{
+        float: right;
+        font-size: 15px;
+        color: gray;
+    }
+
+.adding-task{
+    height:40px;
+   background-color: white;
+   margin:5px;
+   text-align: left;
+   font-size: 11px;
+   color:gray;
+   border:1px solid whitesmoke;
+   font-weight: bold;
+}
+
+.dot {
+    height: 10px;
+    width: 10px;
+    padding:2px;
+    background-color:aqua;
+    border-radius: 50%;
+    display: inline-block;
+    float: right;
+}
+.dot1{
+    height: 10px;
+    width: 10px;
+    padding:2px;
+    background-color:orange;
+    border-radius: 50%;
+    display: inline-block;
+    float: right;
 }
 
 
